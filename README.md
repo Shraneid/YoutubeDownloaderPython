@@ -9,5 +9,7 @@ pip install -r requirements.txt
 ## Usage 
 launch the python main file and enter what it asks
 
+I recommend using https://ytcutter.com/ to preview the timestamps before inputting them into the script as it is pretty well done
+
 ## Example
 ![ExampleImg](https://i.imgur.com/D5nHxbP.png)
